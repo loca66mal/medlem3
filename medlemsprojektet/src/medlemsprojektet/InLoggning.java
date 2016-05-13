@@ -32,7 +32,7 @@ public class InLoggning extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("jButton1");
+        jButton1.setText("Logga in");
 
         jTextField2.setText("jTextField2");
 
